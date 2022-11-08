@@ -1,0 +1,10 @@
+.current-two {
+    color: rgb(35, 175, 0);
+}
+
+.artistsNav {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: rgb(166, 253, 253);
+}
